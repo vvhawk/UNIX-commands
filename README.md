@@ -3,9 +3,13 @@ This project was completed for my university class on [systems](https://www.cs.r
 
 We implemented common UNIX commands used to manage system files and directories (ls, find, tree) in [C](https://en.wikipedia.org/wiki/C_(programming_language)).
 
-Simply put, a directory is a fancy name for a folder. On your computer, you have many folders for your applications. These folders are used to store files with important data. 
+Simply put, a directory is a fancy name for a folder. On your computer, you have many folders for your applications. These folders are used to store files with important data.
 
 Folders can even contain more folders. This is the basis for file organization.
+
+<p align="center">
+  <img src="./extras/folders.gif"/>
+</p>
 
 If you're new to or a little fuzzy on files and directories learn more [here](https://jdblischak.github.io/2014-09-18-chicago/novice/shell/01-filedir.html).
 
