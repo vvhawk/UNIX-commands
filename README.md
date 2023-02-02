@@ -15,7 +15,7 @@ If you're new to or a little fuzzy on files and directories learn more [here](ht
 
 All code was developed and tested remotely on Rutgers [Instructional Lab Machines](https://report.cs.rutgers.edu/nagiosnotes/iLab-machines.html). Remote connection was established using [SSH](https://en.wikipedia.org/wiki/Secure_Shell).
 
-A [Makefile](https://www.gnu.org/software/make/manual/make.html#Introduction) is provided for build automation
+A [Makefile](https://www.gnu.org/software/make/manual/make.html#Introduction) is provided for build automation.
 
 ## [ls](https://man7.org/linux/man-pages/man1/ls.1.html)
 List contents of a directory
