@@ -17,15 +17,38 @@ All code was developed and tested remotely on Rutgers [Instructional Lab Machine
 
 A [Makefile](https://www.gnu.org/software/make/manual/make.html#Introduction) is provided for build automation.
 
+<p align="center">
+  <img src="./extras/clean.gif"/>
+</p>
+
 ## [ls](https://man7.org/linux/man-pages/man1/ls.1.html)
 List contents of a directory
 
+<p align="center">
+  <img src="./extras/ls.gif"/>
+</p>
+
+### ls -l [option](http://www.catb.org/~esr/writings/taoup/html/ch10s05.html)
+ls -l (lowercase “l” for “long”), prints the “long format” with extra information about each file
+
+<p align="center">
+  <img src="./extras/ls-l.gif"/>
+</p>
+
 
 ## [find](https://man7.org/linux/man-pages/man1/find.1.html)
-Find files/directories matching a pattern
+Recursively searches and finds files/directories matching a pattern given as a command-line argument
+
+<p align="center">
+  <img src="./extras/find.gif"/>
+</p>
 
 ## [tree](https://linux.die.net/man/1/tree)
-Recursively print files/directories as a tree
+Recursively searches and prints files/directories as a tree
+
+<p align="center">
+  <img src="./extras/tree.gif"/>
+</p>
 
 ## Credits
 Instructor   
