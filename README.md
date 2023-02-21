@@ -21,6 +21,16 @@ A [Makefile](https://www.gnu.org/software/make/manual/make.html#Introduction) is
   <img src="./extras/clean.gif"/>
 </p>
 
+Below I've included an overview of the commands implemented. 
+
+For each command...
+
+I run the actual command,
+
+compile the corresponding program using *"make program-name"* ,
+
+and run using *"./program-name"* to show that the results are the same. 
+
 ## [ls](https://man7.org/linux/man-pages/man1/ls.1.html)
 List contents of a directory
 
