@@ -1,4 +1,4 @@
-# UNIX Commands
+# UNIX Commands 🛠️
 This project was completed for my university class on [systems](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-214-systems-programming).
 
 We implemented common UNIX commands used to manage system files and directories (ls, find, tree) in [C](https://en.wikipedia.org/wiki/C_(programming_language)).
